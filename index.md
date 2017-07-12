@@ -10,14 +10,7 @@ Tropical Cyclone run on machine Coconut with 48 processing cores during existanc
 
 ## Contributors
 
-Operator Rober J Weaver                       
+#### Rober J Weaver                                            
 
-Associate Professor,                          
+#### Peyman Taeb 
 
-Operator Peyman Taeb 
-
-Research Assistant, PhD Candidate 
-
-Department of Ocean Eng. and Sci. 
-
-Florida Institute of Technology.
