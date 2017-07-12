@@ -4,13 +4,11 @@ ADCIRC Surge Guidance System (ASGS) run for Eastern Florida
 
 ## Computational Resource
 
-North America Meso-scale (NAM) model run on machine Pelican with 24 processing core 2 cycles per day, 
+North America Meso-scale (NAM) model run on machine Pelican on 24 nodes 2 cycles per day
 
-Tropical Cyclone run on machine Coconut with 48 processing cores during existance of active storm in Atlantic Basin,
+Tropical Cyclone run on machine Coconut on 48 nodes during existance of active storm(s) in Atlantic Basin
 
-## Contributors
+## Reference
 
-Rober J Weaver                                            
-
-Peyman Taeb 
+Peyman Taeb, Rober J Weaver
 
