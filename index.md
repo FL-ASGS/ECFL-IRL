@@ -2,7 +2,7 @@
 
 ADCIRC Surge Guidance System (ASGS) run for Eastern Florida
 
-[[ptaeb2014.github.io/NASA_NOAA.jpg]]
+<img align="left" src="NASA_NOAA.jpg">
 
 ## Computational Resource
 
