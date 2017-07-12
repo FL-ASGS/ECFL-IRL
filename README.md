@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+### About FL ASGS
+ADCIRC Surge Guidance System (ASGS) run for Eastern Florida 
 
-## You can use the [editor on GitHub](https://github.com/ptaeb2014/ptaeb2014.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Computational Resource
+North America Meso-scale (NAM) model run on machine Pelican with 24 processing core 2 cycles per day,
+Tropical Cyclone run on machine Coconut with 48 processing cores during existance of active 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ptaeb2014/ptaeb2014.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contributors
+Operator Rober J Weaver                         Operator Peyman Taeb
+Associate Professor,                            Research Assistant, PhD Candidate
+                    Department of Ocean Eng. and Sci.
+                    Florida Institute of Technology,
