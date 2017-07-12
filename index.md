@@ -10,7 +10,7 @@ Tropical Cyclone run on machine Coconut with 48 processing cores during existanc
 
 ## Contributors
 
-#### Rober J Weaver                                            
+Rober J Weaver                                            
 
-#### Peyman Taeb 
+Peyman Taeb 
 
