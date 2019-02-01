@@ -1,0 +1,18 @@
+
+This folder contains forecast results made by Multistage-GEFS-SREF-NAM for the purpose of website development. 
+
+Background plots
+Surface elevation + wind full domain
+Surface elevation + wind IRL domain
+
+Wave heigh + direction full domain
+Wave heigh + direction IRL domain
+
+
+validation plots name             location (latitute/longitude)
+EW_TP.png                         28.41021N   80.56185W
+HS_noaa_41113.png                 28.400N     80.534W
+EW_cprg_HS.png                    27.86957N   80.43807W
+EW_cprg.png                       27.8602943N 80.4473267W
+EW_hc.png                         28.736301N  80.754733W
+EW_wabasso.png                    27.7551942432N  80.4273962174W
