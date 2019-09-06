@@ -7,7 +7,7 @@ This guidance is for use by official decision makers and does not represent an o
 <img src="http://www.nhc.noaa.gov/xgtwo/two_atl_2d0.png">
 source [National Hurricane Center (NHC)](http:\\nhc.noaa.gov)
 
-# Tropical Cyclone (Atlantic Basin): Storm 'DORIAN'
+# Tropical Cyclone (Atlantic Basin): Storm ''
 *Real time [hydrographs and wind speed plots](/latest/tclatest_cycle.md) at Melbourne, Virgina Key, Lansing Island in South Banana River, and Sebastian are also available.*
 
 Predicted water Levels (m NAVD88), and overlaid wind (m/s) in Atlantic Basin
